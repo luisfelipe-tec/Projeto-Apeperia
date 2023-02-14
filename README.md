@@ -1,6 +1,6 @@
-## Nesse projeto eu trabalhei os conceitos de mobile first e desenvolvi um site responsivo para Smartphones, Tablets e Desktops utilizando HTML5 e CSS3
+### Nesse projeto eu trabalhei os conceitos de mobile first e desenvolvi um site responsivo para Smartphones, Tablets e Desktops utilizando HTML5 e CSS3
 
-# Confira abaixo os resultados:
+### link: https://netlify.app
 
 ## Desktop
 
